@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/1-main-quest/arrival/","dg-note-properties":{}}
+---
+
+comes from; [[1. main quest/prologue\|prologue]]
+
+[[characters/Manuela\|Manuela]] arrives early in the morning at the [[locations/Lehrerinnenbildungsanstalt\|Lehrerinnenbildungsanstalt]]. she is very nervous and has her doubts if this is right for her, it will require a lot more social interactions than she's ever been used to coming from very reclusive household, she makes her way through the gate to the building, it has an oppressive quality hard to articulate at this present moment. she is brought into an administrative room, asked questions, then told what to expect and given her uniform. she then is brought to the shared dorm and is introduced to the others by [[characters/Fräulein von Bernburg\|Fräulein von Bernburg]]. here she first meets [[characters/Ilse\|Ilse]], the most open and social girl in their class, she tells her the seminary's dark secrets, about the dreams but through a very exaggerated view as Ilse has let these dreams take to much control of her, [[characters/Käthe\|Käthe]] is friendly but is waiting to see if you'll turn out to be trouble. [[characters/Lotte\|Lotte]] isn't antagonistic but very much absorbed in her own thoughts. you got in just in time to attend Bernburg's class, Ilse pulls you to sit next to her, she whispers to you through the whole class, but Manuela cannot take her gave off of Bernburg. Kathe is a complete teachers pet, and it is easy to tell Lotte has a deep connection to Bernburg. After class ends Bernburg pulls you aside and looks Manuela over, she then sends her off. walking back Lotte is loitering in the hall, near Bernburg's office.  with it being late there isn't a point of staying up to you head to the main dorms, it is a single large stretching room with rows of beds, hers is next to Ilse's, she's nervous about sleeping, but doesn't seem to want to open up about why. Bernburg comes by to wish all the girls sweet dreams. Manuela closes her eyes and soon her many questions and concerns fade away into her pillow. 
+
+leads to;
+[[1. main quest/first dream\|first dream]]
