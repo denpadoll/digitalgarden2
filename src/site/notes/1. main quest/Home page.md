@@ -7,7 +7,7 @@ feel free to check out the development of our game!
 
 ---
 
-## Mächen in uniform Index
+## Mächen in uniform 
 
 ### Main Quest 
 [[1. main quest/1. prologue\|1. prologue]]
