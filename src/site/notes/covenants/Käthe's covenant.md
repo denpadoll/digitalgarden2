@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/covenants/kaethe-s-covenant/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/covenants/kaethe-s-covenant/","dg-note-properties":{}}
 ---
 
 The Intellectual; covenant with Kathe 
