@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/design/ilse-s-nightmare/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/design/ilse-s-nightmare/","dg-note-properties":{}}
 ---
 
 
