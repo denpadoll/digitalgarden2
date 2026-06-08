@@ -5,7 +5,7 @@
 Hi there ♡
 feel free to check out the development of our game! 
 
-![thegirls.png\|341](/img/user/thegirls.png)
+![thegirls.png\|341](/img/user/images/thegirls.png)
 
 ---
 ## Mächen in uniform 
