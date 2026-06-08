@@ -25,3 +25,13 @@ feel free to check out the development of our game!
 ## Locations 
 [[locations/Lehrerinnenbildungsanstalt\|Lehrerinnenbildungsanstalt]]
 [[locations/nightmares\|nightmares]]
+
+## Influences 
+Mächen in uniform
+https://www.youtube.com/watch?v=7kkBoaW448s
+Higanbana no saku yoru ni
+https://youtu.be/i62UELdZzq8?si=BqqSjwmHBAQBubuy
+Irisu syndrome 
+https://youtu.be/d-XX2CH3Om8?si=EIyLhAlnR977bAVe
+A nightmare on elm street 
+https://youtu.be/Sd7FX-EiEns?si=5hCikqIPVDYwuYAo
