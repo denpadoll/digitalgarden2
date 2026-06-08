@@ -11,3 +11,4 @@ A wave of relief washes over her, she looks around and sees dim morning light st
 The image of the degraded [[locations/Lehrerinnenbildungsanstalt\|Lehrerinnenbildungsanstalt]] and her aunt's vacant stare is seared into her mind.
 
 leads to;
+

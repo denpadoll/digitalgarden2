@@ -5,8 +5,9 @@
 Hi there ♡
 feel free to check out the development of our game! 
 
----
+![thegirls.png\|341](/img/user/thegirls.png)
 
+---
 ## Mächen in uniform 
 
 ### Main Quest 
