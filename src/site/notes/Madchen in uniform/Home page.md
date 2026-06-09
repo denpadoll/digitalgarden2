@@ -8,8 +8,6 @@ feel free to check out the development of our game!
 ![thegirls.png\|341](/img/user/Madchen%20in%20uniform/images/thegirls.png)
 
 ---
-## Mächen in uniform 
-
 ### Main Quest 
 [[Madchen in uniform/1. main quest/prologue\|prologue]]
 [[Madchen in uniform/1. main quest/arrival\|arrival]]
@@ -25,7 +23,6 @@ feel free to check out the development of our game!
 ## Locations 
 [[Madchen in uniform/locations/Lehrerinnenbildungsanstalt\|Lehrerinnenbildungsanstalt]]
 [[Madchen in uniform/locations/nightmares\|nightmares]]
-
 ## Influences 
 Mächen in uniform
 https://www.youtube.com/watch?v=7kkBoaW448s
