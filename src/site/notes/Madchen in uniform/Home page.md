@@ -9,7 +9,6 @@ feel free to check out the development of our game!
 
 ---
 ### Main Quest 
-[[Madchen in uniform/1. main quest/prologue\|prologue]]
 [[Madchen in uniform/1. main quest/arrival\|arrival]]
 [[Madchen in uniform/1. main quest/first dream\|first dream]]
 ## design 
