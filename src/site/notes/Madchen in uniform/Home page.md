@@ -6,8 +6,9 @@ Hi there ♡
 feel free to check out the development of our game! 
 
 ![thegirls.png\|341](/img/user/Madchen%20in%20uniform/images/thegirls.png)
+  
+  ![Pasted image 20260613221059.png\|324](/img/user/Pasted%20image%2020260613221059.png)
 
----
 ### Main Quest 
 [[Madchen in uniform/1. main quest/arrival\|arrival]]
 [[Madchen in uniform/1. main quest/first dream\|first dream]]

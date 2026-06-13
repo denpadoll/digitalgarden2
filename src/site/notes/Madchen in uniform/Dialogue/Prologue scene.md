@@ -16,7 +16,9 @@ i kneel down to the earth, pulling my arms inward, i feel sick.
 
 "please don't make me do this alone"
 
-speaking out loud into silence, i wait for some kind of response. whatever i was waiting for doesn't come. 
+speaking out loud into silence, i wait for some kind of response. but whatever i was waiting for doesn't come. 
 
+
+--fade to black-- the [[Madchen in uniform/locations/Lehrerinnenbildungsanstalt\|Lehrerinnenbildungsanstalt]] a place for girls like me
 
 
